@@ -13,6 +13,6 @@
         <uc:LimitedInputUserControl title="Enter description:" MaxLength="150" Height="50" 
                                     VerticalAlignment="Top" Width="400" 
                                     Canvas.Top="80" Canvas.Left="30"/>
-
+        <Button x:Name="hola" Content="Hola" Margin="200"/>
     </Canvas>
 </Window>
