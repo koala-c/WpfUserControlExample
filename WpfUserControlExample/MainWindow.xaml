@@ -14,5 +14,6 @@
                                     VerticalAlignment="Top" Width="400" 
                                     Canvas.Top="80" Canvas.Left="30"/>
         <Button x:Name="hola" Content="Hola" Margin="200"/>
+        <Button x:Name="hola" Content="Hola" Margin="200"/>
     </Canvas>
 </Window>
